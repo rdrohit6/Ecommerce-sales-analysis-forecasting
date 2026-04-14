@@ -29,3 +29,6 @@ The Linear Regression model successfully captured the overall upward trend in re
 
 ## 🚀 Conclusion
 This project demonstrates a comprehensive data analytics workflow, integrating data exploration, SQL-driven analysis, visualization, and predictive modeling. The insights derived can support data-driven decision-making in areas such as product strategy, regional targeting, and customer retention.
+
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
